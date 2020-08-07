@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df54b978-7673-4752-b961-0f985db84b65" name="Default Changelist" comment="" />
+    <list default="true" id="df54b978-7673-4752-b961-0f985db84b65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/ss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/alerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/bundle.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fijkJ9ity0eDSZWyP3BhexVZs8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,8 +54,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Betta\Downloads\moban4178\moban4178\assets\css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,24 +71,54 @@
       <option name="presentableId" value="Default" />
       <updated>1596707948875</updated>
       <workItem from="1596707949918" duration="2599000" />
+      <workItem from="1596717975455" duration="53000" />
+      <workItem from="1596766539933" duration="2998000" />
+      <workItem from="1596770117766" duration="12218000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596717880609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596717880609" />
-    <state x="824" y="417" width="271" height="280" key="Github.ShareDialog" timestamp="1596717949478">
+    <state x="824" y="417" width="271" height="280" key="Github.ShareDialog" timestamp="1596717980658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="824" y="417" width="271" height="280" key="Github.ShareDialog/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596717949478" />
+    <state x="824" y="417" width="271" height="280" key="Github.ShareDialog/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596717980658" />
+    <state x="722" y="223" key="Github.UntrackedFilesDialog" timestamp="1596717989034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596717989034" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596717942667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596717942667" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596718020768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596718020768" />
+    <state x="2996" y="201" width="596" height="804" key="find.popup" timestamp="1596787466118">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2996" y="201" width="596" height="804" key="find.popup/0.0.1920.1040/1982.0.1858.1080@1982.0.1858.1080" timestamp="1596787466118" />
   </component>
 </project>
